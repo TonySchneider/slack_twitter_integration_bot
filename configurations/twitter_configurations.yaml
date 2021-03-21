@@ -1,0 +1,16 @@
+access_token: "477022406-jeBvhkIbIPWgMpLjCNA72dmHl7zAa0MG9fGbJWNQ"
+access_token_secret: "FIoBSI0ga1cCmLY8fVqEyfvISUpUEYiH65nuYmMZ3J9jE"
+api_key: "2LqgZjJMy98IHazXtrgFyn2qA"
+api_key_secret: "yd0gKf3H5wGS2DYyL8jfLjCIrYqUzvZUQyBJ1L8halVsv5bqUS"
+personal_username: "DaniNEgadai"
+tw_users:
+  python:
+    - PythonWeekly
+    - realpython
+    - fullstackpython
+  javascript:
+    - JavaScriptDaily
+  "c#":
+    - CSharpStack
+  "c++":
+    - lefticus

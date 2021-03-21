@@ -1,7 +1,10 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 
-# Author: Tony Schneider
+"""slack_bot_wrapper.py: wraps all Slack api requests by using 'requests' lib."""
+
+__author__ = 'Tony Schneider'
+__email__ = 'tonysch05@gmail.com'
 
 import logging
 from time import sleep

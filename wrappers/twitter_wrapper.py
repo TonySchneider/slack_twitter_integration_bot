@@ -1,7 +1,11 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 
-# Author: Tony Schneider
+"""twitter_wrapper.py: wraps all TW api requests by using tweepy (An external python lib)."""
+
+__author__ = 'Tony Schneider'
+__email__ = 'tonysch05@gmail.com'
+
 from threading import Thread
 
 import tweepy

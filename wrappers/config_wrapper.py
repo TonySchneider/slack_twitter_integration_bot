@@ -1,7 +1,10 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 
-# Author: Tony Schneider
+"""config_wrapper.py: loads the configurations files."""
+
+__author__ = 'Tony Schneider'
+__email__ = 'tonysch05@gmail.com'
 
 import yaml
 import sys

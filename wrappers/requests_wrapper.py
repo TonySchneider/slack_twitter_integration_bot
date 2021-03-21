@@ -1,7 +1,10 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 
-# Author: Tony Schneider
+"""requests.py: wraps all project's requests."""
+
+__author__ = 'Tony Schneider'
+__email__ = 'tonysch05@gmail.com'
 
 import requests
 import json

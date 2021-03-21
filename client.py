@@ -1,7 +1,12 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 
-# Author: Tony Schneider
+"""client.py: main python file that executes the project."""
+
+__licence__ = 'GPL'
+__version__ = '0.0.3'
+__author__ = 'Tony Schneider'
+__email__ = 'tonysch05@gmail.com'
 
 """
 To make the bot work, please fill the following keys at the slack and twitter configuration files that

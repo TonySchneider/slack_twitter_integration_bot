@@ -1,5 +1,5 @@
-bot_user_oauth_token: "xoxb-963611265622-1873660657411-iowok0mYNzFMR6w82wrLWISF"
-default_channel_id: "CUB7S76HM"
+bot_user_oauth_token: ""
+default_channel_id: ""
 default_headers:
   Content-Type: "application/x-www-form-urlencoded,application/json"
 post_message_url: "https://slack.com/api/chat.postMessage"

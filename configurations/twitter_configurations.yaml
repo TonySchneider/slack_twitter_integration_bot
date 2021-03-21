@@ -1,8 +1,8 @@
-access_token: "477022406-jeBvhkIbIPWgMpLjCNA72dmHl7zAa0MG9fGbJWNQ"
-access_token_secret: "FIoBSI0ga1cCmLY8fVqEyfvISUpUEYiH65nuYmMZ3J9jE"
-api_key: "2LqgZjJMy98IHazXtrgFyn2qA"
-api_key_secret: "yd0gKf3H5wGS2DYyL8jfLjCIrYqUzvZUQyBJ1L8halVsv5bqUS"
-personal_username: "DaniNEgadai"
+access_token: ""
+access_token_secret: ""
+api_key: ""
+api_key_secret: ""
+personal_username: ""
 tw_users:
   python:
     - PythonWeekly

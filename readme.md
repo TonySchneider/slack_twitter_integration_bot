@@ -1,4 +1,4 @@
-# QM Exercise
+# Slack & Twitter Integration Bot (QM Exercise)
 
 ## Requirements
 

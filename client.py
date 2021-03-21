@@ -30,7 +30,6 @@ logger = logging.getLogger(__name__)
 
 slack_bot_obj = SlackBotWrapper()
 twitter_obj = TwitterWrapper()
-# TODO: You should design your bot, before implementing it
 
 
 @slack_bot_obj.message_handler(commands=['!now'])

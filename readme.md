@@ -27,14 +27,14 @@
     ├── client.py          <- Main file. This file executes the project.
     │
     |── wrappers           
-    |   ├── requests_wrapper.py          <- requests class. wrappes all project's requests.
-    |   ├── slack_bot_wrapper.py         <- 
-    |   ├── twitter_wrapper.py           <- 
-    |   └── config_wrapper.py            <- 
+    |   ├── requests_wrapper.py          <- wraps all project's requests.
+    |   ├── slack_bot_wrapper.py         <- wraps all Slack api requests by using 'requests' lib.
+    |   ├── twitter_wrapper.py           <- wraps all TW api requests by using tweepy (An external python lib).
+    |   └── config_wrapper.py            <- loads the configurations files.
     └── configurations     
-        ├── logging.yaml                 <- 
-        ├── slack_configurations.yaml    <- 
-        └── twitter_configurations.yaml  <- 
+        ├── logging.yaml                 <- logging lib config
+        ├── slack_configurations.yaml    <- slack configs
+        └── twitter_configurations.yaml  <- tw configs
 
 ## Authors
 

@@ -1,5 +1,9 @@
 # Slack & Twitter Integration Bot (QM Exercise)
 
+Slack Twitter Integration Bot is a Python project created by Tony Schneider that integrates Twitter with Slack to provide users with real-time updates on tweets related to specific keywords or hashtags. The project is built using the Slackbot and Tweepy Python libraries and includes a user interface that allows users to subscribe to specific Twitter accounts or keywords.
+
+The application utilizes the Twitter API to retrieve the latest tweets related to the subscribed accounts or keywords and sends them to a designated Slack channel. The Slackbot integration allows users to interact with the bot by sending commands to subscribe or unsubscribe to specific accounts or keywords.
+
 ## Requirements
 
 * python version >= 3.7.4
